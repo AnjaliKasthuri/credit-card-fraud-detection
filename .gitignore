@@ -1,0 +1,13 @@
+# Ignore virtual environment
+cyootipie/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
