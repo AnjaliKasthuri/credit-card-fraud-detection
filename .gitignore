@@ -1,6 +1,6 @@
 # Ignore virtual environment
 cyootipie/
-/creditcard.csv
+creditcard.csv
 
 # Byte-compiled / cache
 __pycache__/
